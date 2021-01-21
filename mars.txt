@@ -3,3 +3,5 @@ natasa vulic
 Mars is not necessarily a good place to live.
 Maybe some other planets may be a good option too.
 What about Venus?
+This is change done on Thursday, Jan 21. I like the course.
+We are studying git history
